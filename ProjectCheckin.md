@@ -14,6 +14,6 @@
 4. Present
 
 ### Contribution:
-Zhiwei Dong: 33.3%
-Yu Ji: 33.3%
-Ruofan Lu: 33.3%
+Zhiwei Dong: 33.3% \
+Yu Ji: 33.3% \
+Ruofan Lu: 33.3% 
